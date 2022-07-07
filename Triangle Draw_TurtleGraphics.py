@@ -1,4 +1,4 @@
-#How to Draw a Triangle using Python Turtle !
+#How to draw a Triangle using Python Turtle !
 import turtle
 ninja=turtle.Turtle()
 #ninja.speed(10)
