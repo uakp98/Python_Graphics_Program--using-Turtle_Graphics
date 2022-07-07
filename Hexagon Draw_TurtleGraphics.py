@@ -1,4 +1,4 @@
-#How to Draw a Hexagon using Python Turtle !
+#How to Draw a Hexagon using Python Turtle!
 import turtle
 ninja=turtle.Turtle()
 #ninja.speed(10)
@@ -6,3 +6,5 @@ ninja=turtle.Turtle()
 for i in range(6):
     ninja.forward(50)
     ninja.right(300)
+
+turtle.done()
